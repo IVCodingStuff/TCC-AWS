@@ -1,0 +1,73 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+
+body{
+    font-family: "Outfit", sans-serif ;
+    background-image: linear-gradient(#232F3E, #0d1217);
+    text-align: center;
+    font-size: 15px;
+    color:#232F3E;
+}
+h1{
+    font-size: 30px;
+    color:#F8991D;
+}
+.primeiro{
+    margin-left: 0px;
+}
+div{
+    width: 21%;
+    padding:12px;
+    padding-bottom:25px; 
+    padding-top: 20px;
+    margin-left:50px ;
+    margin: 10px;
+    border-style: solid;
+    border-color: #F8991D;
+    border-radius:30px;
+    background-color: white;
+    display: inline-block;
+    box-shadow: 2px 3px #232f3e53;
+}
+.info{
+    width: 100px;
+    height: 20px;
+    margin-left:0px;
+    border-style: solid;
+    display: inline-block;
+    padding:0px;
+}
+.insideinfo{
+    padding:0px;
+    margin: 0%;
+    font-style: normal;
+}
+img{
+    max-width: 70%;
+    max-height: 110%;
+    border-radius:20px;
+}
+p{
+    font-weight: normal;
+    font-size: 15px;
+    padding: 0px 10px 0px 10px;
+}
+a{
+    color: hsl(219, 24%, 55%);
+    text-decoration: none;
+}
+a:visited{
+    color: hsl(219, 24%, 55%);
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+    cursor:pointer;
+}
+h2{
+    font-size: 21px;
+
+    padding: 0px 10px 0px 10px;
+    margin-bottom:5px ;
+}
