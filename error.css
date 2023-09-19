@@ -1,0 +1,9 @@
+body{
+    background-image: url(imagens/bg3.jpg);
+    background-repeat: no-repeat;
+    background-size: 1400px 700px;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}

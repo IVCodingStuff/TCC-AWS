@@ -5,6 +5,8 @@
 body{
     font-family: "Outfit", sans-serif ;
     background-image: url(imagens/background.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
     text-align: center;
     font-size: 15px;
     color:#1622ff;
