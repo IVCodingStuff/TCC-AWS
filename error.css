@@ -1,9 +1,20 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
 body{
     background-image: url(imagens/bg3.jpg);
     background-repeat: no-repeat;
-    background-size: 1400px 700px;
+    background-size: 100% 940%;
+    margin: auto;
+
 }
 h1{
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Press Start 2p', serif;
     text-align: center;
+    font-size: 30px;
+}
+div{
+
+    width: fit-content;
+    padding: 5px;
+    margin-left: 14%;
 }
